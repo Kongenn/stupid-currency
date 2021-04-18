@@ -6,3 +6,5 @@ what do you need:
 pip install BeautifulSoup
 
 pip install requests
+
+python valutata.py
